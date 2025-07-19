@@ -1,0 +1,56 @@
+{
+  "title": "Five Feet Apart",
+  "year": 2019,
+  "genre": ["Drama", "Romance"],
+  "director": "Justin Baldoni",
+  "writers": ["Mikki Daughtry", "Tobias Iaconis"],
+  "cast": {
+    "lead_actors": ["Haley Lu Richardson", "Cole Sprouse"],
+    "supporting_actors": ["Claire Forlani", "Moisés Arias"]
+  },
+  "review": {
+    "overall_sentiment": "mixed-positive",
+    "strengths": [
+      "Strong lead performances with good chemistry",
+      "Artistic cinematography and symbolic visuals",
+      "Heartfelt emotional scenes",
+      "Light, effective comedy",
+      "Fresh take on terminal illness romance trope",
+      "Realistic relationship development",
+      "Nice surprises in plot progression"
+    ],
+    "weaknesses": [
+      "Predictable plot beats",
+      "Scientific inaccuracies",
+      "Cheesy and rushed elements",
+      "Inconsistent character logic",
+      "Weak parental roles"
+    ],
+    "inconsistencies_highlighted": [
+      "Hand hygiene emphasized in one scene but ignored in others",
+      "Poe’s underdeveloped character leads to lack of emotional impact upon death",
+      "Unrealistic final scene in the park",
+      "Will's decision to leave Stella felt forced and unnecessary",
+      "Insensitive joke about sex in the Vatican"
+    ],
+    "symbolism_and_art": {
+      "comment": "Use of visual metaphors and character art adds depth to the storytelling",
+      "reviewer_impression": "Appreciated the rooms and visual symbolism"
+    },
+    "tone_and_style": {
+      "emotional_depth": "Heartfelt",
+      "humor": "Light and well-placed",
+      "predictability": "Moderate",
+      "cheese_factor": "Present but not overwhelming",
+      "style_comparison": "Comparable to 'The Fault in Our Stars' with a modern twist"
+    },
+    "verdict": {
+      "summary": "Better than expected with emotional payoff, despite predictable and implausible moments",
+      "recommendation": "Worth a watch in theater or via streaming",
+      "final_scores": {
+        "drama_romance": 8.0,
+        "overall": 7.0
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "title": "Me Before You",
+  "review": {
+    "general_sentiment": "positive surprise",
+    "summary": "The reviewer did not expect to enjoy a sappy romance film but was moved by Emilia Clarke’s performance and the film’s emotional tone.",
+    "initial_expectations": "Low, due to genre preference",
+    "reason_for_watching": "Emilia Clarke’s acting in Game of Thrones"
+  },
+  "cast": {
+    "female_lead": {
+      "name": "Emilia Clarke",
+      "performance": "exceptional",
+      "description": "Charismatic, emotionally expressive, quirky",
+      "comparison_to_previous_roles": "Drastically different from her stoic GoT character",
+      "notable_features": [
+        "Highly expressive eyebrows",
+        "Quirky, lovable personality",
+        "Eclectic style"
+      ]
+    },
+    "male_lead": {
+      "name": "Sam Claflin",
+      "performance": "very good",
+      "role": "Will Traynor, a quadriplegic",
+      "description": "Charming, subtly expressive, empathetic",
+      "comparison_to_previous_roles": "Hunger Games (water fighter)"
+    },
+    "supporting_cast": [
+      "Janet McTeer",
+      "Charles Dance",
+      "Matthew Lewis (Neville Longbottom from Harry Potter)"
+    ]
+  },
+  "technical_aspects": {
+    "direction": "Good",
+    "cinematography": "Good but not exceptional",
+    "editing": {
+      "overall": "Fine",
+      "issues": [
+        "Too many cuts during certain emotional scenes",
+        "Distracting editing during mansion arrival and bench scene"
+      ]
+    },
+    "screenplay": {
+      "writer": "Jojo Moyes",
+      "quality": "Effective and well-aligned with action"
+    },
+    "locations": [
+      "Castle",
+      "Village",
+      "Modern luxurious house with smart architecture"
+    ],
+    "music": {
+      "tone": "Heartwarming and emotional",
+      "comment": "Often predictable but impactful"
+    }
+  },
+  "themes": {
+    "romance": "Quirky, light-hearted love story with deep emotional beats",
+    "ethics": {
+      "topic": "Right to die with dignity",
+      "conflict": "Whether a person with a diminished but stable condition should be allowed assisted death",
+      "exploration": "Raises moral, ethical, spiritual and legal questions about autonomy in choosing death"
+    },
+    "disability": {
+      "portrayal": "Balanced, empathetic look at life with quadriplegia",
+      "support_system": "Nurse, converted home, emotional support from Lou (Clarke)"
+    }
+  },
+  "tone": {
+    "overall": "Light despite serious subject",
+    "specific_moments": "Somber yet humorous due to Clarke’s energy"
+  },
+  "critic_highlights": {
+    "comparison": "Feels derivative of 'Intouchables'",
+    "unique_elements": [
+      "Character-driven narrative",
+      "Chemistry between leads",
+      "Facial expressiveness as emotional medium"
+    ]
+  },
+  "family_friendliness": {
+    "rating": "G",
+    "mature_content": {
+      "sexual_content": "Implied intimacy, nothing shown",
+      "language": "No profanity",
+      "violence": "None"
+    }
+  },
+  "conclusion": "Surprisingly heartfelt and charming, elevated by strong performances and ethical depth. Recommended both as a romance and a philosophical exploration."
+}

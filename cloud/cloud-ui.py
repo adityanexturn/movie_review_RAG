@@ -56,7 +56,6 @@ def display_header_with_logo():
     logo_paths = [
         r"C:\Users\adity\Desktop\Gen-Ai Rag\code\critic.png",  # Local path
         "critic.png",  # Cloud path (in repository)
-        "1d475d24-d4b1-45ac-8d2d-999f5e0c142e.png"  # Alternative name
     ]
     
     for logo_path in logo_paths:
@@ -170,43 +169,43 @@ def display_header_with_logo():
 # Call the header function
 logo_loaded = display_header_with_logo()
 
-# Fallback header if logo fails to load
-if not logo_loaded:
-    st.markdown(
-        """
-        <style>
-        .fallback-header {
-            text-align: center;
-            padding: 2rem 0 3rem 0;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            border-radius: 15px;
-            margin-bottom: 2rem;
-        }
-        .fallback-title {
-            font-size: 3rem;
-            font-weight: bold;
-            margin: 0;
-            color: white;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
-            letter-spacing: 2px;
-        }
-        .movie-emoji {
-            font-size: 4rem;
-            margin-bottom: 1rem;
-            animation: spin 3s linear infinite;
-        }
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
-        </style>
-        <div class="fallback-header">
-            <div class="movie-emoji">🎬</div>
-            <div class="fallback-title">Film Review RAG</div>
-        </div>
-        """,
-        unsafe_allow_html=True
-    )
+# # Fallback header if logo fails to load
+# if not logo_loaded:
+#     st.markdown(
+#         """
+#         <style>
+#         .fallback-header {
+#             text-align: center;
+#             padding: 2rem 0 3rem 0;
+#             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+#             border-radius: 15px;
+#             margin-bottom: 2rem;
+#         }
+#         .fallback-title {
+#             font-size: 3rem;
+#             font-weight: bold;
+#             margin: 0;
+#             color: white;
+#             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+#             letter-spacing: 2px;
+#         }
+#         .movie-emoji {
+#             font-size: 4rem;
+#             margin-bottom: 1rem;
+#             animation: spin 3s linear infinite;
+#         }
+#         @keyframes spin {
+#             0% { transform: rotate(0deg); }
+#             100% { transform: rotate(360deg); }
+#         }
+#         </style>
+#         <div class="fallback-header">
+#             <div class="movie-emoji">🎬</div>
+#             <div class="fallback-title">Film Review RAG</div>
+#         </div>
+#         """,
+#         unsafe_allow_html=True
+#     )
 
 # --- Weaviate and embedding model ---
 @st.cache_resource

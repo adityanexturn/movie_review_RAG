@@ -407,34 +407,34 @@ if st.session_state.chat:
                             unsafe_allow_html=True
                         )
 
-# --- Footer Credit ---
-st.markdown(
-    """
-    <style>
-    .creator-credit {
-        position: fixed;
-        bottom: 20px;
-        right: 20px;
-        z-index: 9999;
-        font-size: 1rem;
-        color: white;
-        opacity: 0.9;
-        pointer-events: none;
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        padding: 8px 16px;
-        border-radius: 25px;
-        backdrop-filter: blur(10px);
-        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-        font-weight: 600;
-        letter-spacing: 0.5px;
-        border: 2px solid rgba(255, 255, 255, 0.2);
-    }
-    .creator-credit::before {
-        content: '🎬 ';
-        margin-right: 5px;
-    }
-    </style>
-    <div class="creator-credit">Created by Aditya</div>
-    """,
-    unsafe_allow_html=True
-)
+# # --- Footer Credit ---
+# st.markdown(
+#     """
+#     <style>
+#     .creator-credit {
+#         position: fixed;
+#         bottom: 20px;
+#         right: 20px;
+#         z-index: 9999;
+#         font-size: 1rem;
+#         color: white;
+#         opacity: 0.9;
+#         pointer-events: none;
+#         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+#         padding: 8px 16px;
+#         border-radius: 25px;
+#         backdrop-filter: blur(10px);
+#         box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+#         font-weight: 600;
+#         letter-spacing: 0.5px;
+#         border: 2px solid rgba(255, 255, 255, 0.2);
+#     }
+#     .creator-credit::before {
+#         content: '🎬 ';
+#         margin-right: 5px;
+#     }
+#     </style>
+#     <div class="creator-credit">Created by Aditya</div>
+#     """,
+#     unsafe_allow_html=True
+# )

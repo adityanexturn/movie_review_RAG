@@ -1,0 +1,75 @@
+Question,Ground_truth,System_answer
+What is the genre of The Dark Knight?,"The genre of The Dark Knight is Thriller,action, crime, and drama.","Based on the evidence, The Dark Knight can be classified under multiple genres, including action, drama, romance, horror, and detective story, with elements of dark humor, as stated in evidence piece 4: ""The Dark Knight truly delivers with drama, action, romance, horror, dark humor, the study of a psychopathic killer, a detective story."" This suggests that the film is a hybrid of various genres, making it a complex and multifaceted movie."
+Who are the lead actors in The Prestige?,Christian Bale and Hugh Jackman are the lead actors.,Christian Bale and Hugh Jackman are the lead actors in The Prestige.
+Is the acting in The Dark Knight praised by reviewers?,"Yes, the acting is praised, especially Heath Ledger's performance.","Yes, the acting in The Dark Knight is praised by reviewers.
+Extracted information from the evidence:
+
+Reviewers praised Heath Ledger's performance as iconic, dark, and transformative (from the given evidence before TheDarkKnight.txt).
+Once you see The Dark Knight... Heath was incredible! (Source: TheDarkKnight.txt)"
+What do reviews say about the plot of Inception?,Not enough information,Not enough information.
+Who directed Shutter Island?,Martin Scorsese directed Shutter Island.,"Based on the evidence provided, the director of Shutter Island is Scorsese, as mentioned in piece 3: ""Known for his crime epics and biographical dramas, Scorsese uses Shutter Island to explore a more expressionist, psychological tone..."" This indicates that Scorsese is the director of the film."
+What genres are most common in Ayushmann Khurrana's films?,Drama or Comedy are common genres.,"Based on the evidence provided, the most common genres in Ayushmann Khurrana's films are Drama and Crime Thriller/Action.
+Out of the four movies listed, two are classified as Drama (Anek and Chandigarh Kare Aashiqui), one is a Crime Thriller (Article 15), and one is an Action film (An Action Hero). Although the exact classification of ""Crime Thriller"" and ""Action"" might slightly differ, they both belong to action-oriented genres. Therefore, Drama is the most represented genre, and action-oriented genres (Crime Thriller and Action) are also common."
+what is the source of the shutter island review,The source is ShutterIslandReview.pdf.,"The source of the Shutter Island review is ShutterIslandReview.pdf. This is consistently cited as the source across all the provided evidence pieces (1, 2, 3, and 4)"
+Who stars in the movie Gulabo Sitabo alongside Ayushmann Khurrana?,Amitabh Bachchan stars alongside Ayushmann Khurrana in Gulabo Sitabo.,Amitabh Bachchan stars in the movie Gulabo Sitabo alongside Ayushmann Khurrana.
+Who are the actors of Bareilly Ki Barfi?,Ayushman Khurrana,"The evidence only mentions the lead actor of Bareilly Ki Barfi, which is Sidharth Malhotra. There is no information provided about other actors in the movie."
+what is the genre difference between dream girl and me before you?,"Dream Girl is a romantic comedy, while Me Before You is a romantic drama.","The genre of ""Dream Girl"" is Comedy, as stated in evidence pieces 2 and 3. On the other hand, the genre of ""Me Before You"" is not explicitly stated, but it is described as a ""sappy romance film"" in evidence piece 1. Therefore, the genre difference between ""Dream Girl"" and ""Me Before You"" is that ""Dream Girl"" is a Comedy, while ""Me Before You"" is a Romance."
+Explain the plot of The Prestige?,"The plot of The Prestige is a complex and interconnected narrative with intricately woven subplots and masterful time shifts, exploring the intense rivalry between two magicians and the dark sacrifices they make in pursuit of greatness.","The plot of The Prestige is a complex, interconnected narrative with intriguingly intertwined subplots and masterful time switching, making it a unique and exceptional film."
+Was Shutter Island reviewed more positively or negatively?,positive,"Shutter Island was reviewed very positively. The evidence consistently praises the movie, using phrases such as ""demands it"" (implying a high level of engagement), ""Stunning direction"", ""Brilliant performances"", ""Layered storytelling"", ""Thought-provoking themes"", and ""Immersive cinematography"". The final verdict is a perfect score of ""10/10"", indicating an extremely positive review. Additionally, the review calls the movie a ""masterclass in misdirection and emotional manipulation"", further emphasizing its positive assessment. Overall, the evidence suggests that Shutter Island received a highly positive review."
+which three parts the rivalry in the prestige revolves around?,"""the Pledge, the Turn, and the Prestige.""","The rivalry in The Prestige revolves around three parts: the Pledge, the Turn, and the Prestige."
+What production company is associated with Gulabo Sitabo?,Junglee Pictures is the production company for Gulabo Sitabo.,The production company associated with Gulabo Sitabo is Junglee Pictures.
+How was the chemistry between the lead actors of Five Feet Apart generally received?,The chemistry between the lead actors was praised as strong and effective.,"The chemistry between the lead actors of ""Five Feet Apart"", Haley Lu Richardson and Cole Sprouse, was generally well-received. According to the evidence, one of the strengths of the movie is the ""Strong lead performances with good chemistry"". This suggests that the reviewers appreciated the chemistry between the two lead actors, contributing to the overall positive aspects of the film."
+Who directed the film Five Feet Apart?,Justin Baldoni.,The director of the film Five Feet Apart is Justin Baldoni.
+What genre does Five Feet Apart belong to?,"	Drama and Romance.","According to the evidence, Five Feet Apart belongs to the genres 'Drama' and 'Romance'. This information is found in the first piece of evidence, which describes the movie as ['Drama', 'Romance']."
+ Who are the lead actors in Five Feet Apart?,Haley Lu Richardson and Cole Sprouse.,"The lead actors in ""Five Feet Apart"" are Haley Lu Richardson and Cole Sprouse."
+list 4 movies of sandler,"50 First Dates (2004)
+Billy Madison (1995)
+Blended (2014)
+The Waterboy (1998)","Based on the evidence, the 4 movies of Adam Sandler are:
+50 First Dates (2004)
+Billy Madison (1995)
+Blended (2014)
+The Waterboy (1998)"
+Which Adam Sandler movie is widely considered one of his worst?,Jack and Jill,"According to the evidence, the Adam Sandler movie that is widely considered one of his worst is ""Jack and Jill"" (2011), with a rating of 3.5 out of 10. The Reviewer Final Verdict states that it is ""Widely considered one of his worst""."
+Which Sandler movie is widely considered one of his best?,Happy Gilmore,Happy Gilmore is widely considered one of Adam Sandler's best movies.
+List all the Rom-Com movies starring Adam Sandler ,"""50 First Dates"", ""Blended"", and ""Just Go With It"".","Based on the evidence provided, the list of Rom-Com movies starring Adam Sandler is:
+Blended
+50 First Dates
+Just Go With It"
+How many movies of sandler were released before the year 2000?,"Billy Madison 
+Happy Gilmore ","Based on the evidence provided, the movies of Adam Sandler released before the year 2000 are:
+Billy Madison (1995)
+The Waterboy (1998)
+Therefore, the answer is 2 movies of Adam Sandler were released before the year 2000."
+who are the main actors of thats my boy?, Adam Sandler and Andy Samberg,"The main actors of ""That's My Boy"" are Adam Sandler and Andy Samberg."
+"What is the rating for the movie ""Happy Gilmore""?",7.8,"The rating for the movie ""Happy Gilmore"" is 7.8 out of 10."
+who are the actors of Click,Adam Sandler Kate Beckinsale,"According to the evidence, the actors of Click are:
+Adam Sandler Kate Beckinsale"
+list the movies of khurana which has imdb rating less than 8,"Anek 
+Meri Pyaari Bindu ","Based on the evidence, the movies of Ayushmann Khurrana with an IMDb rating less than 8 are:
+Anek (2022) - IMDb Rating: 7.0
+Meri Pyaari Bindu (2017) - IMDb Rating: 7.7
+These two movies have an IMDb rating less than 8."
+list the movies of khurana which has the most award wins,Andhadhun,"Based on the evidence, the movie with the most award wins is:
+Andhadhun (12 award wins)"
+highest budget movie of khurana,Badhaai ho,"Based on the evidence, the highest budget movie of Ayushmann Khurrana is Badhaai Ho with a budget of 78.43 Cr."
+Who plays Lt. Aldo Raine in the film bastards?,Brad pitt,Brad Pitt as Lt. Aldo Raine leads the Basterds in Nazi occupied France.
+What is the name of the young Jewish refugee character?,Shosanna Dreyfus,The name of the young Jewish refugee character is Shosanna Dreyfus
+who played two face?,Aaron Eckhart,Aaron Eckhart played Two Face.
+What language do the characters speak in the inglorious?,"French , german, english","According to the evidence, the characters in the inglorious Basterds speak:
+French
+German"
+Which psychological thriller inspired The Batman according to the review?,Se7en,"According to the evidence, the psychological thriller that inspired The Batman is 'Se7en'."
+who is the classy villain of gotham,the joker,"The Joker is the ""Classy Villain that Gotham needs"", as he has named himself. This is stated in evidence piece 1: ""The Joker has named himself as the 'Classy Villain that Gotham needs'""."
+who is the riddler and how is he related to batman,"riddler is the villian , he is the enemy of batman","Based on the provided evidence, the Riddler is a villain character who challenges Batman with puzzles and riddles, serving as an intellectual adversary in the Batman universe. However, it appears that the Riddler is not a significant character in the movie being discussed, as the text mentions that the Joker says ""riddle me this"" instead of the Riddler, and the Riddler disappears for the majority of the movie, leaving clues for Batman to solve.
+There is no clear relationship between the Riddler and Batman in the provided evidence. The text does not mention the Riddler interacting with Batman or having any significant impact on the story. The Riddler is only mentioned as a character who is not a major part of the movie.
+
+It's worth noting that the text does not mention the Riddler at all in the context of the movie ""The Dark Knight"", which is discussed in evidence 5. The Riddler is only mentioned in the context of the movie ""The Batman"", which is discussed in evidence 1-4."
+what is the genre of batman,Psychological Thriller,"Based on the evidence, the genre of Batman can be inferred as a mix of noir and psychological thriller. This is supported by:
+Evidence piece 2, which describes the setting as ""noirish"" and Batman's role as a ""semi-detective"", indicating a dark and investigative tone.
+Evidence piece 4, which mentions that 'The Batman' is inspired by 'Se7en', a psychological thriller, suggesting that the film incorporates elements of this genre.
+Overall, the genre of Batman appears to be a blend of noir and psychological thriller, with a focus on detective work and dark themes."
+Who plays the character Teddy Daniels?,Leonardo DiCaprio,Leonardo DiCaprio plays the character Teddy Daniels.
+Who plays Dr. Cawley?,Ben Kingsley,Ben Kingsley plays Dr. Cawley.
+What is the budget of the movie Sholay?,Not enough information,There is not enough information in the provided evidence to answer this question.
+who directed the movie django unchained?,Sharukh Khan,"The evidence does not explicitly state who directed the movie Django Unchained. However, it can be inferred from the context that the director is Tarantino, as mentioned in the first piece of evidence: ""I saw Django Unchained with the expectation of any Tarantino fan."" This implies that Tarantino is associated with the film, likely as the director."

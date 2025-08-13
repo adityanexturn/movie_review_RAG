@@ -1,4 +1,4 @@
-# Film Review RAG System
+# Film Review RAG
 
 This project is a sophisticated Retrieval-Augmented Generation (RAG) system designed to answer questions about a private knowledge base of movie reviews. It leverages a powerful Large Language Model (LLM) but constrains it to only use verified information from the provided documents, ensuring factual, trustworthy, and verifiable responses.
 
@@ -199,3 +199,4 @@ GEN-AI-RAG/
 ├── requirements.txt     # Lists all Python dependencies.
 ├── docker-compose.yml   # Configuration for the local Weaviate Docker container.
 └── README.md            # This file.
+
